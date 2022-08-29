@@ -1,5 +1,5 @@
 # PROYECTO-ARQUITECTURA-DE-SOFTWARE
-Repositorio de entregas por equipo
+REPOSITORIO DE ENTREGAS POR EQUIPO
 
 **Integrantes del equipo:**
 
