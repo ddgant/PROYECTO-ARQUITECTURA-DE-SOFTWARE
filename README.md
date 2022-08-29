@@ -1,4 +1,4 @@
- <img align="center" width="800" height="350" img src = "https://user-images.githubusercontent.com/60008674/187124119-004071c0-8506-4b40-aac3-7335db188115.gif">
+ <img align="center" width="850" height="350" img src = "https://user-images.githubusercontent.com/60008674/187124119-004071c0-8506-4b40-aac3-7335db188115.gif">
  
  
 # PROYECTOS ARQUITECTURA DE SOFTWARE <img width="50" height="50" img src= "https://user-images.githubusercontent.com/60008674/187124113-cd98546d-8799-4133-a169-9421c0e4d8fe.gif">
