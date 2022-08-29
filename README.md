@@ -1,7 +1,7 @@
 # PROYECTO-ARQUITECTURA-DE-SOFTWARE
 Repositorio de entregas por equipo
 
-Integrantes del equipo:
+**Integrantes del equipo:**
 
 Aragon Serrano Marco Elias
 
